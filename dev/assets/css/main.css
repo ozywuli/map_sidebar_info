@@ -1,0 +1,17 @@
+body {
+	background: yellow;
+}
+
+@media all and (min-width: 800px) {
+  p {
+    font-size: 12px
+  }
+}
+
+
+
+@media all and (min-width: 800px) {
+  h1 {
+    font-size: 36px;
+  }
+}
